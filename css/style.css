@@ -236,6 +236,9 @@ body {
 	padding-top: 130px;
 }
 
+#slide-1 h2 {
+	padding-top: 80px;
+}
 @media (max-width: 991px) {
 	#slide-1 {
 		background-position: -70% 0, 170% 0;
